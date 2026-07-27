@@ -3,16 +3,6 @@
 ## Overview
 This project investigates the extent to which established Alzheimer's disease (AD) risk genes are involved in immune system-related biological processes, using publicly available pathway and protein interaction databases.
 
-## Data source
-The gene list (n = 76 unique genes) was compiled from Tables 1 and 2 of:
-
-> Bellenguez, C. et al. (2022). New insights into the genetic etiology of Alzheimer's 
-> disease and related dementias. *Nature Genetics*, 54, 412–436. 
-> https://doi.org/10.1038/s41588-022-01024-z
-
-This study identified 75 genome-wide significant risk loci for AD and related dementias (33 previously known, 42 new at the time of publication) from a two-stage GWAS meta-analysis of 111,326 clinically diagnosed/proxy AD cases and 677,663 controls.
-
-
 ## Results
 
 - **76** AD risk genes were compiled from the source GWAS.
@@ -33,4 +23,4 @@ This study identified 75 genome-wide significant risk loci for AD and related de
 - `AD Immune Enrichment Analysis.md` — full methodological log and reasoning
 
 ## Relevance
-This project reflects a specific interest in the immune dimension of neurodegenerative disease — the overlap between innate immunity, microglial function, and neurodegeneration.
+This project reflects the immune dimension of neurodegenerative disease, the overlap between innate immunity, microglial function, and neurodegeneration.
