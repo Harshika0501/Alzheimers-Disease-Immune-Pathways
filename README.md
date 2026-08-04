@@ -12,7 +12,6 @@ This project investigates the extent to which established Alzheimer's disease (A
 - Of the genes the original paper explicitly discussed as immune/microglia-linked  in its main text (TREM2, RHOH, BLNK, SIGLEC11, LILRB2, SHARPIN, RBCK1, OTULIN, ADAM17, TNIP1, SPPL2A), 9 of 11 were independently recovered by this analysis.
 
 ## Tools used
-- Python (pandas)
 - Enrichr (https://maayanlab.cloud/Enrichr/)
 - STRING (https://string-db.org/)
 - GWAS Catalog (https://www.ebi.ac.uk/gwas/) — used for exploratory reference only
