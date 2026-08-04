@@ -20,7 +20,7 @@ This project investigates the extent to which established Alzheimer's disease (A
 ## Repository structure
 - `data/` — gene lists (full 76-gene set, immune-flagged subset)
 - `results/` — enrichment tables and network figures
-- `AD Immune Enrichment Analysis.md` — full methodological log and reasoning
+- `AD_Immune_Pathways_Notebook.md` — full methodological log and reasoning
 
 ## Relevance
 This project reflects the immune dimension of neurodegenerative disease, the overlap between innate immunity, microglial function, and neurodegeneration.
